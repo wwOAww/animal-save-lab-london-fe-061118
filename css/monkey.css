@@ -17,3 +17,11 @@ html {
   right: 0;
     }
 }
+
+@media only screen and (max-width: 1170px) {
+#monkey{
+  position: absolute;
+  top: 0px;
+  right: 0;
+    }
+}
